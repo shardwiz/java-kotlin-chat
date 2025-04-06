@@ -48,8 +48,3 @@ MVC is a widely used technique in android. Google itself wrote its repositories 
 3. E-commerce application can be build in MVC, MVP but MVVM may make some modules very complex.
 
 **NOTE**: There is no single architecture which is best of all. If there was one, there wouldn't be any need of learning other architectures. Choice of correct architecture depends on several factors like initial requirements, data flow, scalability, maintenance, updates(CRs), testing requirements. So choose WISELY.
-
-Except these three android architectures, there is one more architecture named as **"MVI** - Model view Intent". This is not very popular among Android developers. Please check this link if you are interested in **MVI**.
-<br>https://github.com/saksham24/Android-simple-MVI-pattern-with-MVP-MVVM-collaboration
-<br><br><br> 
-# END     :warning:
